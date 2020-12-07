@@ -1,0 +1,5 @@
+C:\Users\oldpa\OneDrive\Робочий стіл\OneArmedBandit-main\Avtomat-Bandit\OneArmedBandit\obj\Debug\OneArmedBandit.csprojAssemblyReference.cache
+C:\Users\oldpa\OneDrive\Робочий стіл\OneArmedBandit-main\Avtomat-Bandit\OneArmedBandit\obj\Debug\Avtomat_Bandit.Form1.resources
+C:\Users\oldpa\OneDrive\Робочий стіл\OneArmedBandit-main\Avtomat-Bandit\OneArmedBandit\obj\Debug\OneArmedBandit.csproj.GenerateResource.cache
+C:\Users\oldpa\OneDrive\Робочий стіл\OneArmedBandit-main\Avtomat-Bandit\OneArmedBandit\obj\Debug\Avtomat-Bandit.exe
+C:\Users\oldpa\OneDrive\Робочий стіл\OneArmedBandit-main\Avtomat-Bandit\OneArmedBandit\obj\Debug\Avtomat-Bandit.pdb
